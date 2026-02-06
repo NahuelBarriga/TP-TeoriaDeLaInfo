@@ -1,4 +1,4 @@
-# TP-TeoriaDeLaInfo
+# information-theory-practicals
 
 This repository contains practical assignments (Trabajos Practicos) for an Information Theory course. The projects implement various concepts from information theory including entropy calculation, code analysis, data compression, and communication channels.
 
